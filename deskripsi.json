@@ -1,0 +1,205 @@
+{
+  "deskripsi": {
+  "gajah": {
+      "name":"Gajah",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Elephantidae",
+        "genus": [
+          "Elephas",
+          "Loxodonta"
+        ],
+        "kingdom": "Animalia",
+        "order": "Proboscidea",
+        "phylum": "Chordata",
+        "species": [
+          "Elephas maximus",
+          "Loxodonta africana",
+          "Loxodonta cyclotis"
+        ]
+      },
+      "description": "Gajah adalah mamalia besar dengan belalai panjang dan taring besar. Tubuh mereka dilapisi kulit tebal berwarna abu-abu. Gajah memiliki empat kaki yang kuat dan telinga besar menyerupai kipas.",
+      "diet": "Gajah adalah hewan herbivora yang memakan rumput, daun, ranting, kulit pohon, buah, dan akar-akaran.",
+      "habitat": "Gajah dapat ditemukan di berbagai habitat seperti hutan tropis, sabana, padang rumput, dan daerah pesisir.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fgajah.jpg?alt=media&token=d8c15e8f-4c09-490d-9282-d0310a4c569d&_gl=1*5jlld2*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDc3NS4wLjAuMA..",
+      "reproduction": "Gajah mencapai kematangan seksual pada usia 10-12 tahun. Setelah kawin, betina mengalami masa kehamilan selama sekitar 22 bulan. Biasanya, satu anak gajah dilahirkan."
+    },
+  "singa": {
+      "name":"Singa",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "kingdom": "Animalia",
+        "order": "Carnivora",
+        "phylum": "Chordata",
+        "species": "Panthera leo"
+      },
+      "description": "Singa adalah kucing besar dengan tubuh besar dan berotot. Jantan singa memiliki jambul di sekitar kepala dan leher. Singa memiliki cakar kuat dan taring besar.",
+      "diet": "Singa adalah hewan karnivora yang memakan zebra, rusa, banteng, dan hewan lainnya.",
+      "habitat": "Singa biasanya ditemukan di padang rumput Afrika dan beberapa bagian Asia seperti Gir Forest di India.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fsinga.jpg?alt=media&token=5e1e0855-1029-450c-8a97-45a3ebd0bdb6&_gl=1*yuh4xg*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDkxMy4wLjAuMA..",
+      "reproduction": "Singa mencapai kematangan seksual pada usia 3-4 tahun. Setelah kawin, betina mengalami masa kehamilan selama sekitar 3,5 bulan. Biasanya, betina melahirkan 1-6 anak singa."
+    },
+  "badak": {
+      "name":"Badak",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Rhinocerotidae",
+        "genus": [
+          "Dicerorhinus",
+          "Rhinoceros",
+          "Ceratotherium"
+        ],
+        "kingdom": "Animalia",
+        "order": "Perissodactyla",
+        "phylum": "Chordata",
+        "species": [
+          "Dicerorhinus sumatrensis",
+          "Rhinoceros unicornis",
+          "Ceratotherium simum"
+        ]
+      },
+      "description": "Badak adalah mamalia besar dengan tubuh besar dan berotot. Mereka memiliki kulit yang tebal dan cula yang khas. Badak bercula satu memiliki satu cula besar di bagian depan hidung, sedangkan badak bercula dua memiliki dua cula di bagian depan hidung. Badak memiliki kaki yang kuat dengan kuku besar yang digunakan untuk mencari makanan dan bertahan.",
+      "diet": "Badak adalah hewan herbivora yang memakan rumput, daun, tunas, ranting, buah, dan akar-akaran.",
+      "habitat": "Badak dapat ditemukan di berbagai habitat seperti sabana, hutan, dan dataran rendah.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fbadak.jpg?alt=media&token=1947813b-65c3-4907-8392-c5b1ce00a1f3&_gl=1*n9x07y*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDY5OC4wLjAuMA..",
+      "reproduction": "Badak mencapai kematangan seksual pada usia sekitar 6-7 tahun. Setelah betina hamil, masa kehamilan berlangsung sekitar 15-18 bulan. Biasanya, satu anak badak yang disebut anak badak dilahirkan."
+    },
+  "harimau": {
+      "name":"Harimau",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "kingdom": "Animalia",
+        "order": "Carnivora",
+        "phylum": "Chordata",
+        "species": "Panthera tigris"
+      },
+      "description": "Harimau adalah kucing besar dengan tubuh lentur dan otot kuat. Mereka memiliki mantel dengan corak garis-garis. Harimau jantan memiliki taring panjang dan kuat.",
+      "diet": "Harimau adalah hewan karnivora yang memakan rusa, babi hutan, monyet, dan hewan lainnya.",
+      "habitat": "Harimau hidup di berbagai habitat seperti hutan hujan, hutan mangrove, sabana, dan pegunungan.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fharimau.jpg?alt=media&token=b0518259-6450-40f4-979e-5ae3645852af&_gl=1*baujtg*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDc5OS4wLjAuMA..",
+      "reproduction": "Harimau mencapai kematangan seksual pada usia 3-4 tahun. Setelah kawin, betina mengalami masa kehamilan selama sekitar 3,5 bulan. Biasanya, betina melahirkan 2-4 anak harimau."
+    },
+  "jerapah": {
+      "name":"Jerapah",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Giraffidae",
+        "genus": "Giraffa",
+        "kingdom": "Animalia",
+        "order": "Artiodactyla",
+        "phylum": "Chordata",
+        "species": "Giraffa camelopardalis"
+      },
+      "description": "Jerapah adalah mamalia dengan leher yang panjang, tubuh tinggi, dan kaki-kaki yang panjang. Mereka memiliki bulu berwarna cokelat dengan bercak-bercak berbentuk bulat yang khas. Jerapah memiliki lidah yang panjang dan fleksibel yang memungkinkan mereka untuk meraih daun-daun di atas pohon.",
+      "diet": "Jerapah adalah hewan herbivora yang memakan daun-daun pohon seperti akasia dan mimosas.",
+      "habitat": "Jerapah dapat ditemukan di padang rumput, savana, dan hutan terbuka di Afrika.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fjerapah.jpg?alt=media&token=deb8feb5-2817-4570-b127-581908a9fb15&_gl=1*m7uf79*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDgxNS4wLjAuMA..",
+      "reproduction": "Jerapah mencapai kematangan seksual pada usia 3-6 tahun. Setelah betina hamil, masa kehamilan berlangsung sekitar 14-15 bulan. Biasanya, satu anak jerapah yang disebut jerapah muda dilahirkan."
+    },
+  "monyet": {
+      "name":"Monyet",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Varies depending on the species",
+        "genus": "Varies depending on the species",
+        "kingdom": "Animalia",
+        "order": "Primates",
+        "phylum": "Chordata",
+        "species": "Varies depending on the species"
+      },
+      "description": "Monyet adalah mamalia yang biasanya berukuran sedang hingga kecil. Mereka memiliki tubuh yang lincah dengan lengan dan kaki yang fleksibel. Monyet memiliki wajah yang ekspresif dengan mata yang cemerlang dan ekor yang panjang atau pendek tergantung pada spesiesnya.",
+      "diet": "Monyet memiliki pola makan yang bervariasi tergantung pada spesiesnya. Mereka dapat menjadi herbivora, karnivora, atau omnivora.",
+      "habitat": "Monyet dapat ditemukan di berbagai habitat di seluruh dunia, termasuk hutan hujan, hutan gugur, hutan tropis, sabana, dan pegunungan.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fmonyet.jpg?alt=media&token=9b6e5698-b91a-4c91-8926-541839e13172&_gl=1*1ha84i2*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDg0My4wLjAuMA..",
+      "reproduction": "Monyet mencapai kematangan seksual pada usia yang bervariasi tergantung pada spesiesnya. Masa kehamilan biasanya berlangsung selama beberapa bulan tergantung pada spesiesnya. Biasanya, satu atau beberapa anak monyet dilahirkan dalam satu kelahiran."
+    },
+  "penguin": {
+      "name":"Penguin",
+      "classification": {
+        "class": "Aves",
+        "family": "Spheniscidae",
+        "genus": [
+          "Aptenodytes",
+          "Pygoscelis"
+        ],
+        "kingdom": "Animalia",
+        "order": "Sphenisciformes",
+        "phylum": "Chordata",
+        "species": [
+          "Aptenodytes forsteri",
+          "Pygoscelis adeliae"
+        ]
+      },
+      "description": "Penguin adalah burung yang tidak dapat terbang dan memiliki tubuh yang dilapisi bulu lebat. Mereka memiliki sayap yang termodifikasi menjadi sirip untuk berenang di air. Penguin memiliki postur tegak dengan kepala dan tubuh yang proporsional serta kaki pendek yang membantu mereka berjalan dan meluncur di atas es.",
+      "diet": "Penguin adalah hewan karnivora yang memakan ikan, cumi-cumi, dan krill. Mereka berenang di perairan laut untuk mencari makanan dan menggunakan paruh mereka yang tajam untuk menangkap mangsa.",
+      "habitat": "Penguin umumnya ditemukan di belahan bumi selatan, terutama di Antarktika. Mereka hidup di koloni di pantai dan pulau-pulau di sekitar wilayah es atau perairan dingin.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fpenguin.jpg?alt=media&token=afd35761-4f94-4a86-8492-d67bbdf9b520&_gl=1*yw3itg*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDg3My4wLjAuMA..",
+      "reproduction": "Penguin mencapai kematangan seksual pada usia 3-8 tahun tergantung pada spesiesnya. Mereka umumnya memiliki pasangan seumur hidup. Proses perkawinan melibatkan tarian khas dan memberikan batu sebagai tanda kesetiaan. Betina penguin bertelur dan jantan serta betina secara bergantian mengerami telur. Setelah menetas, anak penguin disebut anakan dan akan diasuh oleh kedua induknya."
+    },
+  "rusa": {
+      "name":"Rusa",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Cervidae",
+        "genus": "Cervus",
+        "kingdom": "Animalia",
+        "order": "Artiodactyla",
+        "phylum": "Chordata",
+        "species": [
+          "Cervus elaphus",
+          "Cervus nippon"
+        ]
+      },
+      "description": "Rusa adalah mamalia berkuku genap yang memiliki tubuh besar dengan kaki panjang dan tanduk pada jantan. Mereka memiliki bulu yang halus dengan berbagai warna tergantung pada spesiesnya. Jantan memiliki tanduk yang menjulang ke atas dan cabang-cabangnya.",
+      "diet": "Rusa adalah hewan herbivora yang memakan berbagai jenis tumbuhan seperti rumput, daun, tunas, dan ranting.",
+      "habitat": "Rusa dapat ditemukan di berbagai habitat seperti hutan hujan, hutan berdaun lebar, sabana, dan padang rumput.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Frusa.jpg?alt=media&token=b76dfd50-c9ee-43de-9ebb-32b02565fce6&_gl=1*1gu7sz3*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDg5NS4wLjAuMA..",
+      "reproduction": "Rusa mencapai kematangan seksual pada usia 1,5-3 tahun tergantung pada spesiesnya. Jantan menggunakan tanduk mereka untuk memperebutkan betina dalam periode kawin. Setelah betina hamil, masa kehamilan berlangsung sekitar 7-8 bulan. Biasanya, satu anak rusa, yang disebut anak rusa, dilahirkan dalam satu kelahiran."
+    },
+  "ular": {
+      "name":"Ular",
+      "classification": {
+        "class": "Reptilia",
+        "family": [
+          "Pythonidae",
+          "Viperidae"
+        ],
+        "genus": "Varies depending on the species",
+        "kingdom": "Animalia",
+        "order": "Squamata",
+        "phylum": "Chordata",
+        "species": "Varies depending on the species"
+      },
+      "description": "Ular adalah reptil bersisik yang memiliki tubuh yang panjang dan tidak memiliki kaki. Mereka memiliki bentuk tubuh yang beragam, mulai dari yang ramping hingga yang berbentuk gemuk. Kulit ular dapat bervariasi dalam pola dan warna tergantung pada spesiesnya.",
+      "diet": "Ular adalah hewan karnivora yang memakan mangsa seperti mamalia kecil, burung, amfibi, dan reptil kecil lainnya.",
+      "habitat": "Ular dapat ditemukan di berbagai habitat di seluruh dunia, termasuk hutan, padang rumput, gurun, dan perairan.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fular.jpg?alt=media&token=f3dbeede-d779-4409-942c-7dfac0dcb221&_gl=1*mfdmg3*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDk0Mi4wLjAuMA..",
+      "reproduction": "Ular berkembang biak dengan bertelur (ovipar) atau melahirkan anak hidup (vivipar) tergantung pada spesiesnya. Proses perkawinan ular melibatkan pengiriman aroma dan pergerakan tubuh khusus. Setelah proses pembuahan, betina ular bertelur atau memelihara telur di dalam tubuhnya sampai telur menetas atau anak ular lahir."
+    },
+  "zebra": {
+    "nama": "zebra",
+      "name":"Zebra",
+      "classification": {
+        "class": "Mammalia",
+        "family": "Equidae",
+        "genus": "Equus",
+        "kingdom": "Animalia",
+        "order": "Perissodactyla",
+        "phylum": "Chordata",
+        "species": [
+          "Equus quagga",
+          "Equus zebra"
+        ]
+      },
+      "description": "Zebra adalah mamalia berkuku ganjil yang memiliki tubuh berukuran sedang dengan bulu berwarna hitam dan putih yang khas. Pola garis-garis vertikal pada tubuh zebra berbeda-beda tergantung pada spesiesnya. Zebra memiliki kepala besar dengan telinga yang panjang.",
+      "diet": "Zebra adalah hewan herbivora yang memakan rumput, daun, dan tunas. Mereka menggunakan gigi mereka yang tajam dan kuat untuk merumput dan mengunyah makanan mereka.",
+      "habitat": "Zebra biasanya ditemukan di padang rumput, sabana, dan daerah terbuka di Afrika. Mereka menghabiskan sebagian besar waktunya mencari makanan dan bergerak dalam kelompok besar yang disebut kawanan.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/snapzoo-capstone.appspot.com/o/foto%2Fzebra.jpg?alt=media&token=4e3f7f0c-e94f-49f5-b72e-4bdf015859a3&_gl=1*dgsbe0*_ga*MTAzMjA3MDQ5My4xNjg0ODY1MzE0*_ga_CW55HF8NVT*MTY4NTk1NDE5MC44LjEuMTY4NTk1NDk2Mi4wLjAuMA..",
+      "reproduction": "Zebra mencapai kematangan seksual pada usia sekitar 2-3 tahun. Masa perkawinan biasanya terjadi saat musim kawin. Setelah betina hamil, masa kehamilan berlangsung sekitar 12-13 bulan. Biasanya, satu anak zebra yang disebut anak zebra lahir dalam satu kelahiran."
+    }
+  }
+}

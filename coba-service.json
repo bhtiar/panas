@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "favorable-fold-389213",
+  "private_key_id": "8f77fbf9d1ea4ec2f920a27a7ef59dd36bb5c5d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNe6XIFLOh0ERi\nAAXUZ59BxbBWMmxIn5Le656TR2X+n/pUoxKKKa4b44z4UjbZx3zcnJPNVDSVWVeq\nddF31sFT5A0s5366U88kvmSlHCcNbHp/UXNWGqSgYcKiBq6DRBqmkvkm9MHqQZzU\n5HQM7KpdVenjb5+nOBr/Jgy6Th8Ebd/rJJbx4MtAQukO4NKACuzIaPc0LWPuFZO4\nVy4POS3jFbwP+hJNBklbPIbPawyl5iBddRV6IXK0yVGAIDXClHb8MNIexLqsFKKY\nY9oWBGA0qo3EgEnt/kj+QEBEVJcUuZ9x8sjOK4qjwP0WL6wHYAshLjJYQ5eviVq9\nnBz2rEwTAgMBAAECggEAYQNfLlsjwiJfnrsvBWzU4ksw6UlOGW2JfIjWqec8Lt6d\n5CbHooZyJsWksTqznddSyp98IqV+XAK94oNUnZU9WluhotE64kKeWlUvlEp535sX\nLJQqdX0Hu5bcOv4Xl27ofDuIuU02XmCS6GphphZ4iq98yP3S7TKOgGcY/D7U4xQa\nQ6PwrWrKEekEkfE1PVBQnAz6myDaUIeuXh7Ht32TigrYGzSpa07wBy4E4Y9Y84sD\n8yea1PUDGLxTza3LbSRuYe5DnAhAxmbipf7ssL8vJhp1EJxj/8WBvM/KrDlj9u+r\ni6yJh2C2MzRhoQHbS4maJ8HnV1vb6xTXxmcCby+hnQKBgQDs+0v+1BA3eEsVYjGV\nYQoovuWVq9l5KMx5qkAljie5glhqcQAXUztyERJ1IlEETsij9TEsQsXU7uuIjcLn\nsdkEL6DpQYKRrXi8wq6VofvtgBdY2NASfY+X41e4xg8/apc3aNdCNdfbMbOqS2/u\nEZ0ggZWXWC5spuXSvS7wW9B47QKBgQDd+Tj76zvg8rR80Eznk0KXfza8ibfWuGlo\nPjEhNyUDaYkQsFL80R/QILvGunllF+AnO4VRlHRf9U3aActILM5VOMjnC7dd3LGf\nwfqYWu6D3NNZ5SkpB3wg0Vv1qUkCoAGdIygRJZCakU0Rv9gq5XFCAczPwmenhR5F\nv4eOY9A4/wKBgQDpQOeqKRzVHEf7Ai1/tIYFWPAtA3sIsEmirxp4XJVpGIziJ9tJ\nGhl2yqr6NA6+SLVf/CSsRgTm80tNmwrudrT+U8r0DBDyRmaClLS2fzuyptNUFgOn\nT4MYoyJisj+r0cSJO140wz51d1Q6GApRr3CS4DlXP+ph81xesusSlax6eQKBgFn9\nNJ3k0uSyYHuNUvA7Ii8a8szipDYXkxwgwngtzAKjIV8zrKE0Asq0youZg6d5U3V0\nSus03S0d3M76FTiQeaHRIJmShWc3Foem83oau0GYH9L89X/dufPwDHD+jUvUJHNZ\nEmBJM2OGbpE4jmFtnUneQvMjZDRk4k3yhPkz+/FvAoGBAMovAC7KdwfDZyt9bviY\nUXzgaakYFq5LyDkBysOvlA07sjL8MjDRYssusjKQnKWvSUDJLvGE5bYKIePEIRZa\n5aIvHPU5Zj9iSAP38oQ7egnUcKDVwhxb6kpDDv98nJP0BeEQWjVyy646adsTwE0u\niHbmOOYhNU3hPbc2mUgxx7Qs\n-----END PRIVATE KEY-----\n",
+  "client_email": "coba-service@favorable-fold-389213.iam.gserviceaccount.com",
+  "client_id": "115234140367235980458",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coba-service%40favorable-fold-389213.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
